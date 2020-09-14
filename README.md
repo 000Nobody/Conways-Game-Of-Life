@@ -1,6 +1,6 @@
 # About
 
- Conway's Game of Life is a zero-player game devised by the British mathemetician John Horton Conway. The rules of the game are as follows:
+ Conway's Game of Life is a zero-player game devised by the British mathemetician John Horton Conway. You can view a demo video [here](https://www.youtube.com/watch?v=Danh1SgXob8). The rules of the game are as follows:
 
 * Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 * Any live cell with two or three live neighbours lives on to the next generation.
